@@ -2,7 +2,8 @@
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Deep Learning with TensorFlow
 - 💞️ I’m looking to collaborate on Data Science or ML projects
-- 📫 How to reach me www.linkedin.com/in/danuelos
+- 📫 How to reach me www.linkedin.com/in/danuelos 
+- 📊 Check-out my Tableau https://public.tableau.com/app/profile/daniel3351
 
 
 <!---
